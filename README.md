@@ -50,16 +50,8 @@ The system includes several key classes:
 - **Starting the Server:**  
 java –jar DictionaryServer.jar <port> <dictionary-file>
 
-markdown
-复制
-编辑
-
 - **Starting the Client:**  
 java –jar DictionaryClient.jar <server-address> <server-port>
-
-markdown
-复制
-编辑
 
 - **Supported Commands:**
 1. `QUERY word`: Search for the meaning of an existing word.
