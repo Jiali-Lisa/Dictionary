@@ -1,4 +1,3 @@
-# Dictionary
 # Multi-threaded Dictionary System
 
 ---
