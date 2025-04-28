@@ -74,9 +74,13 @@ java –jar DictionaryClient.jar <server-address> <server-port>
 The server is designed with robust error-handling mechanisms, including:
 
 - **Network communication failures**  
+![Network communication failures](images/Picture1.png)
 - **Invalid input format**  
+![Invalid input format](images/Picture2.png)
 - **Duplicate word error**  
+![Duplicate word error](images/Picture3.png)
 - **Word processing error**
+![Word processing error](images/Picture4.png)
 
 Appropriate error messages are returned to the client to ensure system stability and user awareness.
 
@@ -133,16 +137,14 @@ Appropriate error messages are returned to the client to ensure system stability
 ---
 
 ## Interaction Diagram
-
-(Figure 5 - Interaction Diagram: Sequence Diagram)
+![Interaction Diagram](images/Picture5.png)
 
 *(Insert your diagram here, e.g., using Markdown image syntax: `![Interaction Diagram](link)`)*
 
 ---
 
 ## GUI Design
-
-*(Insert GUI screenshots here if available.)*
+![GUI Design](images/Picture5.png)
 
 The GUI includes:
 - Stretchable search bar adapting to window size.
