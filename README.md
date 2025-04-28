@@ -144,7 +144,7 @@ Appropriate error messages are returned to the client to ensure system stability
 ---
 
 ## GUI Design
-![GUI Design](images/Picture5.png)
+![GUI Design](images/Picture6.png)
 
 The GUI includes:
 - Stretchable search bar adapting to window size.
