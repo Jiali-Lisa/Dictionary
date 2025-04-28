@@ -74,13 +74,13 @@ java –jar DictionaryClient.jar <server-address> <server-port>
 The server is designed with robust error-handling mechanisms, including:
 
 - **Network communication failures**  
-<img src="images/Picture1.png" width="200"/>
+<img src="images/Picture1.png" width="300"/>
 - **Invalid input format**  
-<img src="images/Picture2.png" width="200"/>
+<img src="images/Picture2.png" width="300"/>
 - **Duplicate word error**  
-<img src="images/Picture3.png" width="200"/>
+<img src="images/Picture3.png" width="300"/>
 - **Word processing error**
-<img src="images/Picture4.png" width="200"/>
+<img src="images/Picture4.png" width="300"/>
 
 Appropriate error messages are returned to the client to ensure system stability and user awareness.
 
@@ -137,7 +137,7 @@ Appropriate error messages are returned to the client to ensure system stability
 ---
 
 ## Interaction Diagram
-<img src="images/Picture5.png" width="500"/>
+<img src="images/Picture5.png" width="400"/>
 
 ---
 
